@@ -46,3 +46,6 @@ To run the website locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/light-publications.git
+
+🔗 Live Preview:
+👉 https://sakshi20shah.github.io/Light-Publications/
